@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
-## Rason de este proyecto
+## Razon de este proyecto
 
 Este proyecto es una aplicacion web que permite gestionar tareas. La aplicacion se encuentra en el directorio src y se puede acceder a través de http://localhost:3000/.
 
