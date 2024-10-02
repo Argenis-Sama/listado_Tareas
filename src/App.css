@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.hover-text {
+  cursor: default; /* El cursor normal */
+}
+
+.hover-text:hover {
+  cursor: pointer; /* Cambia a la mano al pasar el cursor */
+}

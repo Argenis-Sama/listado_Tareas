@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+# Este es un proyecto de React
+
+Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
+
+## Rason de este proyecto
+
+Este proyecto es una aplicacion web que permite gestionar tareas. La aplicacion se encuentra en el directorio src y se puede acceder a través de http://localhost:3000/.
+
+Es un prueba de conocimiento de React y PHP. Además, me permite practicar con React y PHP.
