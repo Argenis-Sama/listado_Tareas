@@ -3,9 +3,9 @@ class conexion
 {
     private $conn;
     public function __construct() {
-        $servidor = "localhost";
-        $usuario = "argenis";
-        $clave = "100%Samaniego";
+        $servidor = "****";
+        $usuario = "****";
+        $clave = "****";
         $base_datos = "task_manager";
         try {
             // Crear la conexión utilizando PDO
